@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ai-ml-conference-2024",
+    "title": "Building Production-Ready ML Pipelines",
+    "event": "AI/ML Conference 2024",
+    "date": "March 2024",
+    "description": "Discussed best practices for deploying machine learning models in production environments with real-time data.",
+    "link": "https://aimlconf2024.com/talks/kushal-rathore",
+    "type": "Conference",
+    "audience": "500+",
+    "location": "San Francisco, CA"
+  },
+  {
+    "id": "pycon-india-2023",
+    "title": "Scaling Data Science with Python",
+    "event": "PyCon India 2023",
+    "date": "October 2023",
+    "description": "Explored techniques for scaling data science workflows using Python, focusing on distributed computing and optimization.",
+    "link": "https://pyconindia.org/2023/talks/kushal",
+    "type": "Conference",
+    "audience": "800+",
+    "location": "Hyderabad, India"
+  },
+  {
+    "id": "tech-meetup-bangalore",
+    "title": "From Data to Insights: A Practical Guide",
+    "event": "Bangalore Tech Meetup",
+    "date": "August 2023",
+    "description": "Hands-on workshop on transforming raw data into actionable insights using modern data science tools.",
+    "link": "https://meetup.com/bangalore-tech/events/data-insights",
+    "type": "Workshop",
+    "audience": "150+",
+    "location": "Bangalore, India"
+  },
+  {
+    "id": "university-guest-lecture",
+    "title": "Career Paths in AI/ML Engineering",
+    "event": "IIT Delhi Guest Lecture",
+    "date": "June 2023",
+    "description": "Shared insights about career opportunities and skill requirements in the AI/ML industry with computer science students.",
+    "link": "#",
+    "type": "Guest Lecture",
+    "audience": "200+",
+    "location": "New Delhi, India"
+  },
+  {
+    "id": "webinar-ml-deployment",
+    "title": "MLOps: Deploying Models at Scale",
+    "event": "DataScience Community Webinar",
+    "date": "April 2023",
+    "description": "Online session covering MLOps practices, model versioning, and deployment strategies for enterprise applications.",
+    "link": "https://datasciencecommunity.com/webinars/mlops-kushal",
+    "type": "Webinar",
+    "audience": "1000+",
+    "location": "Online"
+  }
+]
